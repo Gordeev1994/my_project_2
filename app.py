@@ -1,5 +1,6 @@
 a = 19
 b = 29
+c = 33
 print(f"a is {a}, b is {b}")
 # swamp
 a, b = b, a
